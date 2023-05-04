@@ -1,4 +1,4 @@
-# 센터관리프로그램 - 헌혈의 집
+# 센터 관리 프로그램 <헌혈의 집>
 <p align="center"><img src="https://user-images.githubusercontent.com/114052638/236240737-6a604384-3cfc-4dfd-bb96-0e47f6b216b5.png" width ="300"></p>
 
 ## 1. 제작 기간
@@ -97,10 +97,16 @@
 - 첫 줄을 생성해 알맞는 할목명을 작성
 
 <img src="https://user-images.githubusercontent.com/114052638/236250567-e92fc221-14f1-42c7-8e2e-3f8ba94b27ea.png" width ="600">
+
 조회된 정보들을 셀에 알맞게 삽입한 후, 지정해둔 경로와 이름으로 엑셀 파일을 출력
 
 
 </br>
+
+
+
+
+
 
 ## 8. 주요 기능
 ### 로그인 기능
